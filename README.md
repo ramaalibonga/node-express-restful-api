@@ -15,7 +15,7 @@
 2. Clone Backend Repository
    
    ```
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/ramaalibonga/node-express-restful-api.git
 
 3. Install Required Library
 
